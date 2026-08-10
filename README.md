@@ -1,3 +1,4 @@
+Status: Work in Progress / Active Development
 # Multi-Threaded C++ Logger
 
 A simple C++ project I built to practice multi-threading and thread synchronization. It uses a thread-safe queue to take incoming tasks and process them across 3 background worker threads.
