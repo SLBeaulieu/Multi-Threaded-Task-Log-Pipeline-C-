@@ -70,7 +70,7 @@ FUNCTION workerLoop():
 END FUNCTION
 ```
 
-###3. Concurrency & Synchronization Design Decisions
+### 3. Concurrency & Synchronization Design Decisions
 
 lock_guard vs. unique_lock:
 
