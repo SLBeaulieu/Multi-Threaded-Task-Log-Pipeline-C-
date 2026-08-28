@@ -29,7 +29,7 @@ A lightweight, non-blocking asynchronous logging system implemented in modern C+
                                                           v
                                                   [ system.log ]
 
-                                                  ---
+                                                 
 ```
 
 ## File Structure & Responsibilities
